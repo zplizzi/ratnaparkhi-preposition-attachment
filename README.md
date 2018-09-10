@@ -4,7 +4,10 @@ The preposition attachment dataset constructed from Penn Treebank in Ratnaparkhi
 ## Notes
 Downloaded from [ftp://ftp.cis.upenn.edu/pub/adwait/PPattachData/](ftp://ftp.cis.upenn.edu/pub/adwait/PPattachData/).
 
-The `README.txt` file is the original README distributed with the dataset.
+The files in the `original/` directory comprise the original, unmodified dataset.
+The file `original/README.txt` is the original README distributed with the dataset.
+
+The files in the `unzipped/` directory contain the unzipped data.
 
 ## Dataset
 This directory contains the data used for the model described in "[A
