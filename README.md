@@ -1,12 +1,14 @@
 # ratnaparkhi-preposition-attachment
-The preposition attachment dataset constructed from Penn Treebank in Ratnaparkhi 1994
+The preposition attachment dataset constructed from Penn Treebank in Ratnaparkhi 1994.
 
+## Notes
 Downloaded from [ftp://ftp.cis.upenn.edu/pub/adwait/PPattachData/]
 
 The `README.txt` file is the original README distributed with the dataset.
 
-This directory contains the data used for the model described in "A
-Maximum Entropy Model for Prepositional Phrase Attachment" in the 1994
+## Dataset
+This directory contains the data used for the model described in "[A
+Maximum Entropy Model for Prepositional Phrase Attachment](http://www.aclweb.org/anthology/H94-1048)" in the 1994
 ARPA Human Language Technology Conference.
 
 Description of Files:
